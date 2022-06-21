@@ -14,6 +14,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+# Header 1
+To visit the Pac - Man Exercise [click here!](https://github.com/AlleyG07/Pac-Man-Alive-Repo)
+<a href="https://github.com/AlleyG07/Pac-Man-Alive-Repo"> Visit the Pac - Man Exercise Repo</a>
+## Header 2
+[Eye Exercise](https://github.com/AlleyG07/Eye-Exercise-Repo)
+To visit the Eye Exercise [click here!](https://github.com/AlleyG07/Eye-Exercise-Repo)
+### Header 3
+[Bus Tracker Exercise](https://github.com/AlleyG07/Real-Time-Bus-Tracker-Repo)
+To visit the Bus Tracker Exercise [click here!](https://github.com/AlleyG07/Real-Time-Bus-Tracker-Repo)
+
 ```markdown
 Syntax highlighted code block
 
