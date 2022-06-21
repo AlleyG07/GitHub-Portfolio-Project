@@ -41,17 +41,20 @@ Phone#: 305-984-4638
   </div>
 </div>
 
+
 <div class="card">
   <div class="card-body">
     HTML
   </div>
 </div>
 
+
 <div class="card">
   <div class="card-body">
     CSS
   </div>
 </div>
+
 
 
 We have completed alot of information this semester along with multiple projects to test our understanding and application of the data. The projects that will be showcased are the following:
