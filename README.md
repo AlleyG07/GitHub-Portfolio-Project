@@ -14,17 +14,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 We have completed alot of information this semester along with multiple projects to test our understanding and application of the data. The projects that will be showcased are the following:
 
-### Run with the Pac
+#### Run with the Pac
 
 This objective for this project is to add multiple Pac - Men and allow them to move to both ends of the screen continuously adding more Pac - Men.
 
  Visit the Pac - Man Exercise Repo <a href="https://github.com/AlleyG07/Pac-Man-Alive-Repo" target="_blank">here!</a>
  
-### All Eyes on Mouse
+#### All Eyes on Mouse
+
+The objective of this project is to duplicate the original eye and all of it's properties and have it follow anywhere the mouse is positioned.
 
 Visit the Eye Exercise Repo <a href="https://github.com/AlleyG07/Eye-Exercise-Repo" target="_blank">here!</a>
 
-### Track Me if you Can
+#### Track Me if you Can
+
+The objective of this project is to track the shuttle bus from the MIT Campus to the Harvard Campus.
 
 Visit the Bus Tracker Exercise Repo <a href="https://github.com/AlleyG07/Real-Time-Bus-Tracker-Repo" target="_blank">here!</a>
 
