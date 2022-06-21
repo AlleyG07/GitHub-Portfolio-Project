@@ -10,7 +10,7 @@ You can use the [editor on GitHub](https://github.com/AlleyG07/GitHub-Portfolio-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Portfolio Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -18,9 +18,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+[Pac - Man Exercise](https://github.com/AlleyG07/Pac-Man-Alive-Repo)
 ## Header 2
+[Eye Exercise](https://github.com/AlleyG07/Eye-Exercise-Repo)
 ### Header 3
-
+[Bus Tracker Exercise](https://github.com/AlleyG07/Real-Time-Bus-Tracker-Repo)
 - Bulleted
 - List
 
