@@ -73,12 +73,16 @@ This objective for this project is to add multiple Pac - Men and allow them to m
  Visit the Pac - Man Exercise Repo <a href="https://github.com/AlleyG07/Pac-Man-Alive-Repo" target="_blank">here!</a>
  
 #### All Eyes on Mouse
+  
+  <img src="Eyes.png" alt="Eye Exercise Picture">
 
 The objective of this project is to duplicate the original eye and all of it's properties and have it follow anywhere the mouse is positioned.
 
 Visit the Eye Exercise Repo <a href="https://github.com/AlleyG07/Eye-Exercise-Repo" target="_blank">here!</a>
 
 #### Track Me if you Can
+  
+  <img src="Nav Marker.jpg" alt="Bus Tracker Picture">
 
 The objective of this project is to track the shuttle bus from the MIT Campus to the Harvard Campus.
 
