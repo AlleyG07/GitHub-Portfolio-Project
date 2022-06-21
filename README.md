@@ -18,13 +18,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+To visit the Pac - Man Exercise [click here!](https://github.com/AlleyG07/Pac-Man-Alive-Repo)
 <a href="https://github.com/AlleyG07/Pac-Man-Alive-Repo"> Visit the Pac - Man Exercise Repo</a>
 ## Header 2
 [Eye Exercise](https://github.com/AlleyG07/Eye-Exercise-Repo)
+To visit the Eye Exercise [click here!](https://github.com/AlleyG07/Eye-Exercise-Repo)
 ### Header 3
 [Bus Tracker Exercise](https://github.com/AlleyG07/Real-Time-Bus-Tracker-Repo)
-- Bulleted
-- List
+To visit the Bus Tracker Exercise [click here!](https://github.com/AlleyG07/Real-Time-Bus-Tracker-Repo)
+
 
 1. Numbered
 2. List
@@ -36,7 +38,7 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-To visit the Pac - Man Exercise [click here!](https://github.com/AlleyG07/Pac-Man-Alive-Repo).
+
 
 ### Jekyll Themes
 
