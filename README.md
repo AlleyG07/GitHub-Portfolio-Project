@@ -50,20 +50,5 @@ The objective of this project is to track the shuttle bus from the MIT Campus to
 
 Visit the Bus Tracker Exercise Repo <a href="https://github.com/AlleyG07/Real-Time-Bus-Tracker-Repo" target="_blank">here!</a>
 
+The navbar came from bootstrap: https://getbootstrap.com/docs/5.2/components/navbar/#content
 
-
-```markdown
-Syntax highlighted code block
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
