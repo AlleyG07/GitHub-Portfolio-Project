@@ -52,7 +52,7 @@ Phone#: 305-984-4638
   <div class="card-body text-success">
     <h5 class="card-title">CSS</h5>
     <p class="card-text">Arranges the look, style and layout of the website.</p>
-  </div>
+  </div>;
      
      
      
