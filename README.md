@@ -82,6 +82,8 @@ The objective of this project is to track the shuttle bus from the MIT Campus to
 
 Visit the Bus Tracker Exercise Repo <a href="https://github.com/AlleyG07/Real-Time-Bus-Tracker-Repo" target="_blank">here!</a>
 
-The navbar came from bootstrap: https://getbootstrap.com/docs/5.2/components/navbar/#content
+
+  
+  The navbar came from bootstrap: https://getbootstrap.com/docs/5.2/components/navbar/#content
 
 The cards came from bootstrap: https://getbootstrap.com/docs/5.2/components/card/
