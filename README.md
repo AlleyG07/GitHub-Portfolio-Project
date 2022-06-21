@@ -65,6 +65,8 @@ Phone#: 305-984-4638
 We have completed alot of information this semester along with multiple projects to test our understanding and application of the data. The projects that will be showcased are the following:
 
 #### Run with the Pac
+  
+  <img src="PacMan1.jpg" alt="Pac - Man Picture">
 
 This objective for this project is to add multiple Pac - Men and allow them to move to both ends of the screen continuously adding more Pac - Men.
 
