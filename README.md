@@ -44,24 +44,7 @@ Visit the Bus Tracker Exercise Repo <a href="https://github.com/AlleyG07/Real-Ti
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-To visit the Pac - Man Exercise [click here!](https://github.com/AlleyG07/Pac-Man-Alive-Repo)
-<a href="https://github.com/AlleyG07/Pac-Man-Alive-Repo"> Visit the Pac - Man Exercise Repo</a>
-## Header 2
-[Eye Exercise](https://github.com/AlleyG07/Eye-Exercise-Repo)
-To visit the Eye Exercise [click here!](https://github.com/AlleyG07/Eye-Exercise-Repo)
-### Header 3
-[Bus Tracker Exercise](https://github.com/AlleyG07/Real-Time-Bus-Tracker-Repo)
-To visit the Bus Tracker Exercise [click here!](https://github.com/AlleyG07/Real-Time-Bus-Tracker-Repo)
 
-[Eye Exercise](https://github.com/AlleyG07/Eye-Exercise-Repo)
-To visit the Eye Exercise [click here!](https://github.com/AlleyG07/Eye-Exercise-Repo)
-
-[Bus Tracker Exercise](https://github.com/AlleyG07/Real-Time-Bus-Tracker-Repo)
-To visit the Bus Tracker Exercise [click here!](https://github.com/AlleyG07/Real-Time-Bus-Tracker-Repo)
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
@@ -69,12 +52,6 @@ To visit the Bus Tracker Exercise [click here!](https://github.com/AlleyG07/Real
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-To visit the Pac - Man Exercise [click here!](https://github.com/AlleyG07/Pac-Man-Alive-Repo)
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlleyG07/GitHub-Portfolio-Project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
