@@ -16,13 +16,16 @@ Alex's Bio
 
 Please allow me to introduce myself, my name is Alexandrea Green. I obtained a Bachelor's Degree in Health Services Administration from Florida International University. I have worked in the healthcare field in a variety of different roles for over 10 years now. Even though healthcare is my first love, it was time for a change in my career and I was very intrigued by computer coding and programming. I had the amazing opportunity to become enrolled in Massachusetts Institute of Technology (MIT) in the Professional Certificate in Coding & Full Stack Development program. I am in awe of how liberating yet frustrating learning about a brand new topic could be but I am enjoying every moment of the program. The new knowledge and skills that I am acquiring will set me up for an exceptional career in computer coding & programming.
 
-<img src="images/Bio Pic 1.jpg>"
+<img src="GitHub-Portfolio-Project/Bio Pic 1.jpg>"
 
 Contact Information is as follows:
 
 GitHub Username: AlleyG07
+     
 LinkedIn: alexandrea.green07@gmail.com
+     
 Email: alexandrealgreen@yahoo.com
+     
 Phone#: 305-984-4638
 
 ### Portfolio Projects
