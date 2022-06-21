@@ -66,7 +66,7 @@ We have completed alot of information this semester along with multiple projects
 
 #### Run with the Pac
   
-  <img src="PacMan1.jpg" alt="Pac - Man Picture">
+  <img src="PacMan1.png" alt="Pac - Man Picture">
 
 This objective for this project is to add multiple Pac - Men and allow them to move to both ends of the screen continuously adding more Pac - Men.
 
