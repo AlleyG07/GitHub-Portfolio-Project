@@ -12,17 +12,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Portfolio Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We have completed alot of information this semester along with multiple projects to test our understanding and application of the data. The projects that will be showcased are the following:
 
-# Header 1
+### Run with the Pac
+
+This objective for this project is to add multiple Pac - Men and allow them to move to both ends of the screen continuously adding more Pac - Men.
 
  Visit the Pac - Man Exercise Repo <a href="https://github.com/AlleyG07/Pac-Man-Alive-Repo" target="_blank">here!</a>
  
-## Header 2
+### All Eyes on Mouse
 
 Visit the Eye Exercise Repo <a href="https://github.com/AlleyG07/Eye-Exercise-Repo" target="_blank">here!</a>
 
-### Header 3
+### Track Me if you Can
 
 Visit the Bus Tracker Exercise Repo <a href="https://github.com/AlleyG07/Real-Time-Bus-Tracker-Repo" target="_blank">here!</a>
 
