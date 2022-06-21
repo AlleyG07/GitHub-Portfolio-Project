@@ -32,7 +32,7 @@ Phone#: 305-984-4638
 ### Portfolio Projects
 
 
-     
+{    
 <div class="card border-primary mb-3" style="max-width: 18rem;">
   <div class="card-header">Component 1</div>
   <div class="card-body text-primary">
@@ -53,7 +53,7 @@ Phone#: 305-984-4638
     <h5 class="card-title">CSS</h5>
     <p class="card-text">Arranges the look, style and layout of the website.</p>
   </div>;
-     
+ }  
      
      
 
@@ -84,6 +84,6 @@ Visit the Bus Tracker Exercise Repo <a href="https://github.com/AlleyG07/Real-Ti
 
 
   
-  The navbar came from bootstrap: https://getbootstrap.com/docs/5.2/components/navbar/#content
+The navbar came from bootstrap: https://getbootstrap.com/docs/5.2/components/navbar/#content
 
 The cards came from bootstrap: https://getbootstrap.com/docs/5.2/components/card/
