@@ -57,6 +57,29 @@ Phone#: 305-984-4638
 
 
 
+<div class="card text-bg-primary mb-3" style="max-width: 18rem;">
+  <div class="card-header">Component 1</div>
+  <div class="card-body">
+    <h5 class="card-title">JavaScript</h5>
+    <p class="card-text">Makes the elements unique and manages the functionality of the website.</p>
+  </div>
+</div>
+<div class="card text-bg-secondary mb-3" style="max-width: 18rem;">
+  <div class="card-header">Component 2</div>
+  <div class="card-body">
+    <h5 class="card-title">HTML</h5>
+    <p class="card-text">Provides the structure of the website.</p>
+  </div>
+</div>
+<div class="card text-bg-success mb-3" style="max-width: 18rem;">
+  <div class="card-header">Component 3</div>
+  <div class="card-body">
+    <h5 class="card-title">CSS</h5>
+    <p class="card-text">Arranges the look, style and layout of the website.</p>
+  </div>
+  
+  
+
 We have completed alot of information this semester along with multiple projects to test our understanding and application of the data. The projects that will be showcased are the following:
 
 #### Run with the Pac
