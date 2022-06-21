@@ -1,4 +1,4 @@
-## Welcome to Alex's GitHub Portfolio
+## Welcome to Alex's Personal Portfolio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K_A8-799meQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -18,7 +18,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-[Pac - Man Exercise](https://github.com/AlleyG07/Pac-Man-Alive-Repo)
+<a href="https://github.com/AlleyG07/Pac-Man-Alive-Repo"> Visit the Pac - Man Exercise Repo</a>
 ## Header 2
 [Eye Exercise](https://github.com/AlleyG07/Eye-Exercise-Repo)
 ### Header 3
