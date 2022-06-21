@@ -19,11 +19,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
  Visit the Pac - Man Exercise Repo <a href="https://github.com/AlleyG07/Pac-Man-Alive-Repo" target="_blank">here!</a>
  
 ## Header 2
-[Eye Exercise](https://github.com/AlleyG07/Eye-Exercise-Repo)
-To visit the Eye Exercise [click here!](https://github.com/AlleyG07/Eye-Exercise-Repo)
+
+Visit the Eye Exercise Repo <a href="https://github.com/AlleyG07/Eye-Exercise-Repo" target="_blank">here!</a>
+
 ### Header 3
-[Bus Tracker Exercise](https://github.com/AlleyG07/Real-Time-Bus-Tracker-Repo)
-To visit the Bus Tracker Exercise [click here!](https://github.com/AlleyG07/Real-Time-Bus-Tracker-Repo)
+
+Visit the Bus Tracker Exercise Repo <a href="https://github.com/AlleyG07/Real-Time-Bus-Tracker-Repo" target="_blank">here!</a>
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -38,6 +41,11 @@ To visit the Eye Exercise [click here!](https://github.com/AlleyG07/Eye-Exercise
 [Bus Tracker Exercise](https://github.com/AlleyG07/Real-Time-Bus-Tracker-Repo)
 To visit the Bus Tracker Exercise [click here!](https://github.com/AlleyG07/Real-Time-Bus-Tracker-Repo)
 
+[Eye Exercise](https://github.com/AlleyG07/Eye-Exercise-Repo)
+To visit the Eye Exercise [click here!](https://github.com/AlleyG07/Eye-Exercise-Repo)
+
+[Bus Tracker Exercise](https://github.com/AlleyG07/Real-Time-Bus-Tracker-Repo)
+To visit the Bus Tracker Exercise [click here!](https://github.com/AlleyG07/Real-Time-Bus-Tracker-Repo)
 
 1. Numbered
 2. List
