@@ -12,16 +12,12 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K_A8-799meQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-###Alex's Bio
+### Alex's Bio
 
 Please allow me to introduce myself, my name is Alexandrea Green. I obtained a Bachelor's Degree in Health Services Administration from Florida International University. I have worked in the healthcare field in a variety of different roles for over 10 years now. Even though healthcare is my first love, it was time for a change in my career and I was very intrigued by computer coding and programming. I had the amazing opportunity to become enrolled in Massachusetts Institute of Technology (MIT) in the Professional Certificate in Coding & Full Stack Development program. I am in awe of how liberating yet frustrating learning about a brand new topic could be but I am enjoying every moment of the program. The new knowledge and skills that I am acquiring will set me up for an exceptional career in computer coding & programming.
 
 <img src="GitHub-Portfolio-Project/Bio Pic 1.jpg>"
      
- <picture>
-  <source srcset="..." type="image/svg+xml">
-  <img src="..." class="img-fluid img-thumbnail" alt="...">
-</picture>
 
 Contact Information is as follows:
 
@@ -34,26 +30,6 @@ Email: alexandrealgreen@yahoo.com
 Phone#: 305-984-4638
 
 ### Portfolio Projects
-
-<div class="card">
-  <div class="card-body">
-    JAVASCRIPT
-  </div>
-</div>
-
-
-<div class="card">
-  <div class="card-body">
-    HTML
-  </div>
-</div>
-
-
-<div class="card">
-  <div class="card-body">
-    CSS
-  </div>
-</div>
 
 
 
@@ -102,3 +78,4 @@ Visit the Bus Tracker Exercise Repo <a href="https://github.com/AlleyG07/Real-Ti
 
 The navbar came from bootstrap: https://getbootstrap.com/docs/5.2/components/navbar/#content
 
+The cards came from bootstrap: https://getbootstrap.com/docs/5.2/components/card/
